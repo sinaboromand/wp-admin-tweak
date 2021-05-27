@@ -22,7 +22,8 @@ input[type=number], input[type=password], input[type=search], input[type=tel], i
     font-family: iranyekan-fa-number !important;
 }
 
-
-
 /* fix - elementor icons */
 #elementor-switch-mode i:before { font-family: eicons !important; }
+
+/* fix - plugins page */
+.plugin-card div.star { font-family: dashicons !important; }
